@@ -1,0 +1,15 @@
+
+
+
+#cta {
+    background-image: url("../assets/images/bg-simplify-section-desktop.svg");
+    background-repeat: no-repeat;
+  }
+
+
+
+@media (max-width: 576px) {
+  #cta {
+    background-image: url("../assets/images/bg-tablet-pattern.svg");
+  }
+}
