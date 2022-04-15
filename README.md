@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# React Js with Tailwindcss challenge from FrontendMentor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+![screen](https://user-images.githubusercontent.com/38167186/163569713-03365a74-0375-4474-940c-cc3c86536915.png)
+
+make sure to install tailwindcss for react js
 
 ### `npm start`
 
