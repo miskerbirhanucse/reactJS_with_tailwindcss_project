@@ -4,7 +4,7 @@
 
 ![screen](https://user-images.githubusercontent.com/38167186/163569713-03365a74-0375-4474-940c-cc3c86536915.png)
 
-make sure to install tailwindcss for react js
+make sure to install tailwindcss
 
 ### `npm start`
 
